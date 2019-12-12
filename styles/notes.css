@@ -1,0 +1,13 @@
+.notesListContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  }
+
+.notes__card {
+  display: flex;
+  flex-basis: 30%;
+  border: 1px solid black;
+  min-width: 20px;  
+  min-height: 20px;
+}
